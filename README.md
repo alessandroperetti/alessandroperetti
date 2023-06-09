@@ -1,4 +1,4 @@
-### Hi folks 👋
+### Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandroperetti&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
