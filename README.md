@@ -1,6 +1,6 @@
 ### About me
 - :mortar_board: PhD in E-Health and Telemedicine and a Master Degree in Computer Science
-- :santa: I’m currently working as Software Engineer at Spindox Labs
+- :santa: I’m currently working as Fullstack developer at OpenMove
 
 
 ### Expertise 
