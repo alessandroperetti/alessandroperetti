@@ -1,6 +1,6 @@
 ### About me
 - :mortar_board: PhD in E-Health and Telemedicine and a Master Degree in Computer Science
-- :santa: I’m currently working as Fullstack developer at OpenMove
+- :santa: I’m currently working as Fullstack developer and Infrastracture Expert at OpenMove
 
 
 ### Expertise 
