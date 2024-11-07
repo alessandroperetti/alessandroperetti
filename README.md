@@ -4,7 +4,7 @@
 
 
 ### Expertise 
-[![My Skills](https://skills.thijs.gg/icons?i=angular,react,ts,nodejs,mongodb,docker)](https://skills.thijs.gg)
+<!--[![My Skills](https://skills.thijs.gg/icons?i=angular,react,ts,nodejs,mongodb,docker)](https://skills.thijs.gg)-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandroperetti&theme=radical&show_icons=true)](https://github.com/alessandroperetti/github-readme-stats)
 
